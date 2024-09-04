@@ -1,0 +1,5 @@
+
+
+```dataviewjs
+dv.view("notesList", {pages: "", view: "normal"})
+```
