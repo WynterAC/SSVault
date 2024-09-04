@@ -1,0 +1,171 @@
+---
+date_created: 2023-07-07
+date_modified: 2023-07-19
+description: Process incoming data and information.
+document_type: inbox
+tags: inbox
+---
+```dataviewjs
+const {Navbar} = customJS;
+await Navbar.createNavbar(app, dv); 
+```
+# Inbox
+%% Begin Waypoint %%
+- **[[Inbox]]**
+	- **Brain Dump**
+		- [[Brain Dump/Brain Dump Homepage]]
+		- [[Quick Notes/DATAVIEW GUIDE]]
+	- **Clippings**
+		- [[Clippings/Knower - 你的知识助手]]
+		- **[[Clippings/Mapping context and content the BrainMap model  Nature Reviews Neuroscience/Mapping context and content the BrainMap model  Nature Reviews Neuroscience]]**
+		- [[Clippings/neuromaps- structural and functional interpretation of brain maps - Nature Methods]]
+		- [[Clippings/Obsidian Web Clipper Test Note 1]]
+		- [[Clippings/Obsidian Web Clipper Test Note]]
+		- [[Clippings/pipebox - 在网页上「真正」做笔记]]
+		- [[Clippings/Untitled 1]]
+		- [[Clippings/Untitled]]
+		- [[Clippings/What are some different areas of neuroscience- - NICHD - Eunice Kennedy Shriver National Institute of Child Health and Human Development]]
+	- **[[Computed/Computed]]**
+	- [[Inbox]]
+	- **Quick Notes**
+		- [[Quick Notes/1 Quick Notes]]
+		- [[../80 Resources/List all meta data available in your vault]]
+		- [[Clippings/Untitled]]
+	- **Raindrop.io**
+		- **Academic**
+			- **Academic Career**
+				- [[Raindrop.io/Academic/Academic Career/Anyone use AI to help with resume  rjobsearchhacks]]
+				- **Grad School**
+					- **Grad Programs**
+						- [[Raindrop.io/Academic/Academic Career/Grad School/Grad Programs/Clinical Neuroscience MSc]]
+						- [[Raindrop.io/Academic/Academic Career/Grad School/Grad Programs/PhD &amp; MFA Application &amp; Deadlines  Arts &amp; Sciences]]
+		- **All bookmarks**
+			- [[Raindrop.io/All bookmarks/- 攻 必須強 - - 匿名遊戲 BY 謝半仙]]
+			- [[Raindrop.io/All bookmarks/- 攻 必須強 - - 影息 + 番外 BY 何暮楚]]
+			- [[Raindrop.io/All bookmarks/- 攻 必須強 - - 無名份 + 番外 BY 林薩]]
+			- [[Raindrop.io/All bookmarks/- 攻 必須強 - - 知己 BY 士多]]
+			- [[Raindrop.io/All bookmarks/- 攻 必須強 - - 糊口 BY 鴉鴉吃素也吃肉 (上)]]
+			- [[Raindrop.io/All bookmarks/- 攻 必須強 - - 肩膀 BY rebeccahm  r君 HE]]
+			- [[Raindrop.io/All bookmarks/- 攻 必須強 - - 難改 BY 七分白]]
+			- [[Raindrop.io/All bookmarks/- 攻 必須強 - - 風景未曾諳 BY 長安雪滿]]
+			- [[Raindrop.io/All bookmarks/- 攻必须强- - 情衷+ 番外BY 指环 你可知我情衷]]
+			- [[Raindrop.io/All bookmarks/- 攻必须强- - 我要的不多BY 暗夜行路HE]]
+			- [[Raindrop.io/All bookmarks/- 攻必须强- - 苍狗+ 番外BY 她行歌]]
+			- [[Raindrop.io/All bookmarks/【都市情緣】现代  XXXXX]]
+			- [[Raindrop.io/All bookmarks/7 Facial Cleansing Brush to Banish Blackheads]]
+			- [[Raindrop.io/All bookmarks/AboutRSSALL-about-RSS A list of RSS related stuff tools, services, communities and tutorials, etc (1)]]
+			- [[Raindrop.io/All bookmarks/AboutRSSALL-about-RSS A list of RSS related stuff tools, services, communities and tutorials, etc]]
+			- [[Raindrop.io/All bookmarks/Academic Research Assistant  ora.ai]]
+			- [[Raindrop.io/All bookmarks/All we need is...TOP› 現代]]
+			- [[Raindrop.io/All bookmarks/All we need is...TOP› 肉文]]
+			- [[Raindrop.io/All bookmarks/Always-Updated List of iOS App URL Scheme Names &amp; Paths for Shortcuts « iOS &amp; iPhone  Gadget Hacks]]
+			- [[Raindrop.io/All bookmarks/Anilist Manga Filter]]
+			- [[Raindrop.io/All bookmarks/BeMo Grad Application Consultant]]
+			- [[Raindrop.io/All bookmarks/Book Summary (1)]]
+			- [[Raindrop.io/All bookmarks/Five facial cleansing brushes for rejuvenated skin]]
+			- [[Raindrop.io/All bookmarks/onximalayaJsBox a library for simple work to do]]
+			- [[Raindrop.io/All bookmarks/Organizing your Graduate School Search]]
+			- [[Raindrop.io/All bookmarks/The Best Facial Cleansing Brushes According To Dermatologists]]
+			- [[Raindrop.io/All bookmarks/XXXXX 《小花鼓》 by 顏涼雨]]
+			- [[Raindrop.io/All bookmarks/但為君故，沉吟至今。 - 現代城市]]
+			- [[Raindrop.io/All bookmarks/但為君故，沉吟至今。 不是愛人 by 月晝]]
+			- [[Raindrop.io/All bookmarks/但為君故，沉吟至今。 晚九朝五 by 季閱]]
+			- [[Raindrop.io/All bookmarks/但為君故，沉吟至今。 野不野 by 潭想]]
+			- [[Raindrop.io/All bookmarks/偽裝結婚 by 大江流]]
+			- [[Raindrop.io/All bookmarks/出獄之後 + 番外 BY 秀於林 HE]]
+			- [[Raindrop.io/All bookmarks/告別愛人+番外 BY 東施娘]]
+			- [[Raindrop.io/All bookmarks/和喜欢的人一起隔离了by 半月半蕉]]
+			- [[Raindrop.io/All bookmarks/嗜糖I+Ⅱ by 魚好白]]
+			- [[Raindrop.io/All bookmarks/夜奔 By 不存在的荷德森  秦三見 - ✦待看✧]]
+			- [[Raindrop.io/All bookmarks/婚後戀愛 by 林光曦]]
+			- [[Raindrop.io/All bookmarks/孔雀和眼鏡的坑 by 煤球煤那個球狗血燉肉磕糧專用]]
+			- [[Raindrop.io/All bookmarks/室友A I+II By 靳曦 - ✧現代生活✦]]
+			- [[Raindrop.io/All bookmarks/室友by兔举栗- 现代]]
+			- [[Raindrop.io/All bookmarks/形影by芒果餡粽子 - 現代]]
+			- [[Raindrop.io/All bookmarks/待看  未分類 3 Page 1  - 攻 必須強]]
+			- [[Raindrop.io/All bookmarks/心逾炭火春by池袋最強 - 現代]]
+			- [[Raindrop.io/All bookmarks/新浪微博视频在线提取工具 - 机领网 JLWZ.CN]]
+			- [[Raindrop.io/All bookmarks/渺邈 by 一隻西瓜大又圓]]
+			- [[Raindrop.io/All bookmarks/無處不耽美 (1)]]
+			- [[Raindrop.io/All bookmarks/無處不耽美]]
+			- [[Raindrop.io/All bookmarks/現代 - 1ページ目2 - 夜裡不知花已紅]]
+			- [[Raindrop.io/All bookmarks/現代 - 8ページ目2 - 夜裡不知花已紅]]
+			- [[Raindrop.io/All bookmarks/白紙一張 现代pg13]]
+			- [[Raindrop.io/All bookmarks/直上天堂by阿列夫零by裴雁_直上天堂by阿列夫零 裴雁_第七书手机阅读]]
+			- [[Raindrop.io/All bookmarks/突兀by La Carmen]]
+			- [[Raindrop.io/All bookmarks/第1章 他年少时的白月光,月光沉没_书宝网]]
+			- [[Raindrop.io/All bookmarks/虐戀 現代 - 1ページ目8 - 夜裡不知花已紅]]
+			- [[Raindrop.io/All bookmarks/那束光 by 空夢]]
+			- [[Raindrop.io/All bookmarks/錯了錯了 by 無司 - 現代]]
+			- [[Raindrop.io/All bookmarks/馬克杯收藏症候群 (1)]]
+			- [[Raindrop.io/All bookmarks/馬克杯收藏症候群]]
+			- [[Raindrop.io/All bookmarks/高烈度友情 by 猛豬出閘]]
+		- **Favorites**
+			- **Coding**
+				- **ChatGTP**
+					- **AI**
+						- [[Raindrop.io/Favorites/Coding/ChatGTP/AI/xx025carrot Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点]]
+			- **Quick Access**
+				- **TBR (To be Read)**
+					- [[Raindrop.io/Favorites/Quick Access/TBR (To be Read)/Efficacy and safety of 1565-nm non-ablative fractional laser versus long-pulsed 1064-nm NdYAG laser in treating enlarged facial pores - PubMed]]
+					- [[Raindrop.io/Favorites/Quick Access/TBR (To be Read)/Motor-learning based activities may improve functional ability in adults with severe cerebral palsy A controlled pilot study - IOS Press]]
+					- [[Raindrop.io/Favorites/Quick Access/TBR (To be Read)/Systematic Monitoring of Cognition for Adults With Cerebral Palsy—The Rationale Behind the Development of the CPCog-Adult Follow-Up Protocol]]
+					- [[Raindrop.io/Favorites/Quick Access/TBR (To be Read)/The Emergence of Human Consciousness From Fetal to Neonatal Life  Pediatric Research]]
+					- [[Raindrop.io/Favorites/Quick Access/TBR (To be Read)/Williams (Williams Beuren) Syndrome A Distinct Neurobehavioral Disorder]]
+			- **University**
+				- **Courses**
+					- **Archived Courses**
+						- **PSYCO**
+							- **PMCOL**
+								- **PSYC 351**
+									- [[Raindrop.io/Favorites/University/Courses/Archived Courses/PSYCO/PMCOL/PSYC 351/A metric for the cognitive map found at last]]
+								- **PSYC 413**
+									- [[Raindrop.io/Favorites/University/Courses/Archived Courses/PSYCO/PMCOL/PSYC 413/4 Collective geoms  ggplot2]]
+									- [[Raindrop.io/Favorites/University/Courses/Archived Courses/PSYCO/PMCOL/PSYC 413/5 Statistical summaries  ggplot2]]
+									- [[Raindrop.io/Favorites/University/Courses/Archived Courses/PSYCO/PMCOL/PSYC 413/A ggplot2 Tutorial for Beautiful Plotting in R - Cédric Scherer]]
+									- **Bookdown Textbooks**
+										- [[Raindrop.io/Favorites/University/Courses/Archived Courses/PSYCO/PMCOL/PSYC 413/Bookdown Textbooks/PSYC 3950 Course Companion]]
+									- [[Raindrop.io/Favorites/University/Courses/Archived Courses/PSYCO/PMCOL/PSYC 413/Chapter 2 Mathematical Statistics Simulation and Computation  Design and Analysis of Experiments and Observational Studies using R]]
+									- [[Raindrop.io/Favorites/University/Courses/Archived Courses/PSYCO/PMCOL/PSYC 413/Cheatsheet 70+ ggplot Charts 📊]]
+									- [[Raindrop.io/Favorites/University/Courses/Archived Courses/PSYCO/PMCOL/PSYC 413/D.7 Murder data  An Introduction to Data Analysis]]
+									- [[Raindrop.io/Favorites/University/Courses/Archived Courses/PSYCO/PMCOL/PSYC 413/Data visualisation using R, for researchers who don’t use R]]
+					- **Current Course**
+						- [[Raindrop.io/Favorites/University/Courses/Current Course/Book Summary]]
+						- [[Raindrop.io/Favorites/University/Courses/Current Course/The Structure of Language Phonology, Morphology, and Syntax]]
+		- **Productivity**
+			- **Productivity**
+				- **App Recommendations**
+					- [[Raindrop.io/Productivity/Productivity/App Recommendations/The 9 best virtual coworking spaces find your focus with apps like Focusmate and Caveday - Elizabeth Butler, MD, PhD]]
+				- **App Supports**
+					- [[Raindrop.io/Productivity/Productivity/App Supports/How to Create and Use Templates in Logseq  appsntips]]
+					- [[Raindrop.io/Productivity/Productivity/App Supports/Simple video-guide to Add items to a database in Notion, with iOS Shortcuts  rshortcuts]]
+					- **Zotero**
+						- [[Raindrop.io/Productivity/Productivity/App Supports/Zotero/Zotero Reference Extractor]]
+		- [[Raindrop.io/Raindrop.io Highlights Dashboard]]
+		- [[Raindrop.io/Raindrop.io Highlights]]
+		- **Unsorted**
+			- [[Raindrop.io/Productivity/Productivity/App Supports/5 must-have queries to manage your graph and life – Logseq Community Hub]]
+			- [[Raindrop.io/Productivity/Productivity/App Supports/10 must-have plugins for Logseq – Logseq Community Hub]]
+			- [[Raindrop.io/Unsorted/Current trends in surgical management of myopia]]
+			- [[Raindrop.io/Unsorted/Dynamic Wallpaper Gallery - Dynamic Wallpaper Club]]
+			- [[Raindrop.io/Unsorted/Full example - Editor.md examples]]
+			- [[Raindrop.io/Productivity/Productivity/App Supports/Getting started with advanced queries – Logseq Community Hub]]
+			- [[Raindrop.io/Unsorted/Grocery Store Aisles Your Ultimate Guide – YoYo Hero]]
+			- [[Raindrop.io/Productivity/Productivity/App Supports/How to create and use templates in Logseq – Logseq Community Hub]]
+			- [[Raindrop.io/Productivity/Productivity/App Supports/How to use queries and indentation in Logseq – Logseq Community Hub]]
+			- [[Raindrop.io/Unsorted/Mediphany  How to read an MRI or CT scan]]
+			- [[Raindrop.io/Productivity/Productivity/App Supports/Page links versus tags – Logseq Community Hub]]
+	- [[Raindrop.io]]
+	- **Readings**
+		- **New Articles**
+			- [[Readings/New Reports/- Intro]]
+		- **New Reports**
+			- [[Readings/New Reports/- Intro]]
+		- **New Research Papers**
+			- [[Readings/New Reports/- Intro]]
+	- [[Scratchpad]]
+	- **Simpread**
+	- **Slipbox**
+
+%% End Waypoint %%
+
